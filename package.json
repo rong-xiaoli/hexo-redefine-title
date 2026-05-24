@@ -1,0 +1,23 @@
+{
+  "name": "hexo-redefine-title",
+  "version": "1.0.0",
+  "description": "Dynamic page title for Hexo Theme Redefine — change title when tab loses/regains focus.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rong-xiaoli/hexo-redefine-title.git"
+  },
+  "keywords": [
+    "hexo",
+    "theme-redefine",
+    "plugin",
+    "title",
+    "dynamic-title"
+  ],
+  "author": "rong-xiaoli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rong-xiaoli/hexo-redefine-title/issues"
+  },
+  "homepage": "https://github.com/rong-xiaoli/hexo-redefine-title#readme"
+}
